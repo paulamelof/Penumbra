@@ -1,0 +1,24 @@
+id,descricao,tipo,lado,p_humano,p_monstro,anula
+genero_feminino,Aparenta ser mulher,generica,ambos,5,5,
+genero_masculino,Aparenta ser homem,generica,ambos,5,5,
+idade_jovem,Aparenta ter uns 20 anos,generica,ambos,5,5,
+idade_idosa,Aparenta ser idosa,generica,ambos,5,5,
+mochila,Carrega uma mochila,generica,ambos,5,5,
+roupa_suja,Roupa suja,generica,ambos,10,3,cheiro_forte
+olheiras,Olheiras fundas,generica,ambos,10,3,olhos_vermelhos
+perna_enfaixada,Perna enfaixada,generica,ambos,10,3,anda_mancando
+roupa_molhada,Roupa molhada,generica,ambos,10,3,pele_palida
+tossindo,Está tossindo,generica,ambos,10,3,voz_rouca
+olhos_vermelhos,Olhos vermelhos,ambigua,ambos,5,9,
+cheiro_forte,Cheiro forte,ambigua,ambos,5,9,
+pele_palida,Pele muito pálida,ambigua,ambos,5,9,
+anda_mancando,Anda mancando,ambigua,ambos,5,9,
+voz_rouca,Voz rouca,ambigua,ambos,4,9,
+sorriso_fixo,Sorriso fixo que não muda,ambigua,ambos,1,15,
+sem_sombra,Não tem sombra,especifica,monstro,0,25,
+dentes_afiados,Dentes afiados,especifica,monstro,0,25,
+sangue_escuro,Sangue escuro (se estiver sangrando),especifica,monstro,0,25,
+dedos_extras,Dedos a mais nas mãos,especifica,monstro,0,25,
+sangue_vermelho,Sangue vermelho (se estiver sangrando),especifica,humano,34,0,
+reflexo_visivel,Reflexo aparece no vidro,especifica,humano,33,0,
+pupila_reage,Pupila reage à luz,especifica,humano,33,0,
