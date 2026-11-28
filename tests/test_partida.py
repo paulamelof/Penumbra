@@ -1,4 +1,4 @@
-"""Testes da Pessoa 4: regras da partida."""
+"""Regras da partida."""
 
 from src.partida import nova_partida, proxima_criatura, registrar_decisao
 
